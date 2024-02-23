@@ -1,0 +1,87 @@
+.ll-search {
+  max-width: 880px;
+  margin: 0px auto;
+  background-color: #fff;
+  padding: 40px 40px 0 40px;
+  border-top-left-radius: 16px;
+  border-top-right-radius: 16px;
+}
+
+.ll-search small {
+  font-size: 14px;
+}
+
+.ll-search > div {
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+.ll-search .mdi {
+  position: absolute;
+  left: 16px;
+  font-size: 22px;
+  margin-top: 1px;
+}
+
+.ll-search input {
+  border-radius: 8px;
+  border: 1px solid rgba(97, 101, 125, 0.40);
+  background: #FFF;
+  height: 48px;
+  margin-right: 32px;
+  padding-left: 42px !important;
+  transition: none;
+}
+
+.ll-search input:hover,
+.ll-search input:focus,
+.ll-search input:active,
+.ll-search input:focus-visible
+{
+}
+
+#ll-map {
+  border: 2px solid #cbcbcb;
+  border-radius: 8px;
+  margin-top: 10px;
+  margin-bottom: 16px;
+
+  width: 100%;
+  height: 400px;
+}
+
+.ll-map-container {
+  margin-top: 48px;
+  margin-bottom: 48px;
+}
+
+.ll-cta {
+  margin-top: 8px;
+  margin-bottom: 56px;
+}
+
+@media only screen and (max-width: 960px) {
+  .ll-search {
+    background: linear-gradient(0deg, #fff 60%, #f2f4fb 60%);
+    padding: 0 24px;
+  }
+
+  .ll-search > div {
+    display: block;
+  }
+
+  .ll-search .mdi {
+    top: 6px;
+  }
+
+  .ll-search input {
+    margin-right: 0;
+    margin-bottom: 16px;
+  }
+
+  .ll-search button {
+    width: 100%;
+  }
+}
+

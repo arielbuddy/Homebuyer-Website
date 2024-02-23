@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//homebuyer.com/main-sitemap.xsl"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+	<Document>
+		<name>Locations for Homebuyer.com</name>
+		<open>1</open>
+		<Folder>
+			<atom:link href="https://homebuyer.com" />
+			<Placemark>
+				<name><![CDATA[Homebuyer.com]]></name>
+				<description><![CDATA[Homebuyer.com - The Mortgage Company for First-Time Home Buyers]]></description>
+				<address><![CDATA[230 Findlay Street, Cincinnati, Ohio, 45214, United States]]></address>
+				<phoneNumber><![CDATA[+1-513-824-8171]]></phoneNumber>
+				<atom:link href="https://homebuyer.com"/>
+				<LookAt>
+					<latitude>39.1162983</latitude>
+					<longitude>-84.5237898</longitude>
+					<altitude>0</altitude>
+					<range></range>
+					<tilt>0</tilt>
+				</LookAt>
+				<Point>
+					<coordinates>-84.5237898,39.1162983</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>

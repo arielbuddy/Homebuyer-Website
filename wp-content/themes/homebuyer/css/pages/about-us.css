@@ -1,0 +1,752 @@
+.job_filters .showing_jobs a.reset, .job_filters .showing_jobs a.rss_link {
+	display:none;
+}
+.job_opening_form_detail ul.job_listings li.job_listing a img.company_logo,
+.job_opening_form_detail ul.job_listings li.no_job_listings_found a img.company_logo{
+	top:10px;
+}
+.job_opening_form_detail .search_submit input[type="submit"]{
+	background: #5462D1;line-height: 1.5;
+	box-shadow: 0px 3px 6px rgb(0,0,0,0.29);
+	border-radius: 8px;
+	color: #fff;
+	transition: 0.4s;
+	padding: 14px 26px;
+	outline: none;
+	border: none;
+	cursor: pointer;
+	width: auto;
+	margin: 20px auto 0px;
+	display: table;
+}
+.job_opening_form_detail .job_filters .search_jobs{
+	padding: 40px 25px;
+}
+.job_opening_form_detail ul.job_listings li.no_job_listings_found.no_job_listings_found{
+	text-align: center;
+	font-size: 36px;
+	font-weight: 400;
+	color: #5462d1;
+}
+.story_vision_section {
+	padding: 50px 0 0;
+}
+.our_story_video {
+	position:relative;
+	height:0;
+	padding-bottom:56.25%;
+	overflow:hidden;
+	margin-top: 30px;
+}
+.our_story_video iframe {
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+}
+.heading_subheading_content_section{
+	padding:50px 0;
+}
+
+.content .faq__content a {
+	color: #5462d1;
+	transition: all 150ms ease;
+}
+.faq_section{
+	padding:50px 0;
+}
+.faq_section summary::marker {
+	color: #000;
+}
+.faq_section summary {
+	color: #333;
+	padding: 1rem;
+	margin-bottom: 1rem;
+	outline: none;
+	cursor: pointer;
+	position: relative;
+	font-size: 20px;
+	color: #5462d1;line-height:1.5;
+}
+.our_story_three_col {
+	padding: 50px 0;
+}
+.our_story_three_col .content_three {
+	text-align: center;
+	margin: 50px 0 0;
+}
+.our_story_three_col .content_three img {
+	height: 64px;
+	width: auto;
+}
+.our_story_three_col .content_three h4 {
+	margin-top: 25px;
+	margin-bottom: 10px;
+	color: #5462d1;
+	font-size: 24px;
+	font-weight: 500;
+}
+.our_story_three_col .content_three p {
+	padding: 0px 30px;
+}
+.join_our_team {
+	padding: 50px 0 100px;
+}
+.join_our_team .cta_btn2 {
+	margin:40px auto 0;
+}
+.join_our_team .heading_content_section p {
+	padding: 10px 120px;
+}
+.press_heading_section{
+	padding:50px 0;
+}
+.press_heading_section .heading_content_section h2{
+	font-size: 4rem;
+}
+.press_heading_section .heading_content_section p{
+	font-size: 1.2rem;
+}
+.press_sections .row.content_head.col--centered.text-center {
+	justify-content: center;
+}
+.press_sections h3 {
+	margin: 0 30px 0 0px;
+	font-size: 18px;
+	font-family: "circular-bold",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+	color: #25262d;
+}
+.press_sections h4 {
+	margin: 0 15px;
+	font-family: "circular",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+	margin-bottom: 0;
+	font-size: 18px;
+	color: #5462d1;
+}
+.press_sections h4 a{
+	color: #5462d1;
+}
+.press_three_col{
+	padding:30px 0;
+}
+.blog_post_image  {
+	width: 100%;
+	border-radius: 10px 10px 0 0;
+	height: 210px;
+	overflow:hidden;
+}
+.blog_post_image img  {
+	width: 100%;
+	height: auto;
+}
+.company_logo img {
+	max-width: 104px;
+	max-height: 44px;
+}
+.press_three_col_detail h4 {
+	font-family: "circular-bold",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+	text-transform: uppercase;
+	color: #25262d;
+	margin-bottom: 10px;
+	font-weight: 400;
+	font-size: 16px;
+}
+.news-card {
+	border-radius: 10px;
+	padding: 0px 0 40px;
+	box-shadow: 0px 2px 20px rgba(84,98,209,0.1),0px 47px 46px rgba(84,98,209,0.22);
+	margin:30px 0;
+	border-top: 0;
+	overflow: auto;
+	position: relative;
+	transition: all 150ms ease-in-out;
+	display: flex;
+	width: 100%;
+}
+.press_three_col .col-md-6 {
+	display: flex;
+}
+.news-card:hover {
+	transform: translateY(-5px);
+}
+.press_three_col_detail h3 {
+	font-size: 22px;
+	line-height: 1.4;
+	font-family: "circular",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+	font-weight: 400;
+	color: #5462d1;
+}
+
+.company_logo {
+	padding: 0;
+	position: absolute;
+	bottom: 30px;
+}
+.press_three_col_detail {
+	padding:30px 20px;
+}
+
+.media_kit_section {
+	padding: 100px 0;
+}
+
+.media_kit_section a.cta_btn2 {
+	margin:40px auto 0;
+}
+
+.press_contact_section {
+	padding: 50px 0 100px;
+}
+.contact_map_info {
+	box-shadow: 0px 2px 20px rgba(84,98,209,0.1),0px 47px 46px rgba(84,98,209,0.22);
+	border: 1px solid #f0f2f5;
+	padding:50px 50px;
+	border-radius: 15px;
+}
+.press_contact_info h4 {
+	font-size: 24px;
+	font-family: "circular-bold",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+	text-transform: uppercase;
+	color: #5462d1;
+	margin-bottom: 10px;
+}
+
+.contact_info_detail p a{
+	color: #61657d;
+}
+.contact_us_map_section {
+	width: 100%;
+	height: 100%;
+}
+.contact_map {
+	width: 100%;
+	height: 100%;
+	border: none;
+	border-radius: 0 0 10px 0;
+}
+.contact_info_detail {
+	padding: 10px 10px 10px 0;
+}
+.contact_form_section .gform_wrapper.gravity-theme form label,
+.contact_form_section .gform_wrapper.gravity-theme form legend{
+	width:100%;font-size: .75rem;
+	font-weight: normal;
+	text-align: left;
+	line-height: 1.2;
+	color: #465060;margin:10px 0 10px;
+}
+.contact_form_section .gform_wrapper.gravity-theme form input,
+.contact_form_section .gform_wrapper.gravity-theme form textarea{
+	box-sizing: border-box;
+	border: 2px solid #c9ccd1;
+	background-color: #fff;
+	padding: 15px;
+	border-radius: 8px;
+	width: 100%;margin:15px 0 5px;
+	font-size: 18px;
+	color: #465060;outline:none;
+	transition: all 150ms ease;
+	font-family: "circular",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+}
+.contact_form_section .gform_wrapper.gravity-theme form .gfield textarea{
+	height:86px;
+}
+.contact_form_section h4{
+	font-size: 24px;
+	font-family: "circular-bold",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+	text-transform: uppercase;
+	color: #5462d1;
+	margin-bottom: 10px;
+}
+.contact_form_section form .wpcf7-list-item{
+	padding:0;
+	margin:0;
+}
+.contact_form_section .gform_wrapper.gravity-theme .gfield_radio input{
+	width:auto;margin: 0;
+}
+.contact_form_section .gform_wrapper.gravity-theme .gfield_radio {
+	margin:0 0 20px;line-height: 1.5;
+}
+.contact_form_section .gform_wrapper.gravity-theme .gfield_radio label{
+	margin:0;
+}
+.contact_form_section .gform_wrapper.gravity-theme form .gfield_required{
+	display:none;
+}
+.contact_form_section .gform_wrapper.gravity-theme .ginput_complex {
+	display: block;
+}
+.contact_form_section .gform_wrapper.gravity-theme form input[type="submit"] {
+	font-size: 18px;
+	line-height: 1 !important;width: auto;
+	border-radius: 150px;
+	font-family: "circular",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+	padding: 22px 60px;
+	background: #5462d1;
+	border: 1px solid #5462d1;
+	color: #fff;cursor: pointer;
+	margin: 30px 0 0;
+}
+.contact_form_section form .wpcf7-not-valid-tip{
+	margin:10px 0 0 ;
+}
+.customer_review_section {
+	padding: 130px 0;
+}
+.customer_review_section_title h1 {
+	font-size: 4rem;
+	color: #080e33;
+	margin-bottom: 1.11111rem;
+	line-height: 1.2;
+	font-family: "tiempos",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+}
+.testimonial_three_col{
+	background: #dde0f6;
+	padding:48px 0;
+}
+.testimonial_three_col .content_three {
+	background: #fff;
+	border-radius: 20px;
+	padding: 24px 35px 34px;
+	position: relative;
+	box-shadow: 0px 2px 20px rgba(84,98,209,0.07),0px 47px 46px rgba(84,98,209,0.12);
+	margin:16px 0;
+}
+.testimonial_three_col .col-md-6.review_section{
+	display:flex;
+}
+.testimonial_name_card_detail {
+	padding: 0 20px;
+}
+.testimonial_name_card_detail p {
+	font-size: 16px;
+	line-height: 1.5;
+	color: #61657d;
+	margin: 0;
+}
+.testimonial_name_card_detail p.testimonial_name_card-location{
+	font-size: 14px;
+	color: #727986;
+}
+.testimonial_card_ratings {
+	padding: 15px 0;
+}
+.testimonial_card_ratings .mdi {
+  color: #5462d1;
+  font-size: 22px;
+  margin: 0 -2px;
+}
+.content_three .testimonial_card_highlight_quote {
+	font-size: 21px;
+	font-weight: 500;
+	color: #465060;
+}
+.content_three .testimonial_card_base_quote {
+	font-size: 16px;
+	margin-bottom: 50px;
+}
+.content_three .logo-testimonial{
+	position: absolute;
+	bottom: 30px;
+}
+.content_three .logo-testimonial img {
+	max-width: 95px;
+	height: auto;
+}
+.testimonial_three_col{
+	background: #dde0f6;
+	padding:50px 0;
+}
+.customer_review_anchor_tag {
+	padding: 50px 0 0 0;
+}
+.customer_review_anchor_tag a {
+	color: #4c58bc;
+	transition: all 150ms ease;
+	text-decoration: none;
+}
+.customer_review_anchor_tag p{
+	margin:0;
+}
+.achievement_section .content_detail {
+	align-items: center;
+}
+.achievement_section .content_detail .achievement_icon_image img {
+	width:50px;
+	height: auto;
+}
+.achievement_section .content_three{
+	padding:100px 0;
+}
+.achievement_content h3 {
+	margin: 0;
+	font-family: "circular",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+	font-size: 2.04444rem;
+	color: #5462d1;
+	font-weight: 700;
+}
+.achievement_content p{
+	margin: 0;
+	font-weight: 400;
+}
+.achievement_content {
+	padding:0 0 0 15px;
+}
+
+.careers_section {
+	padding: 70px 0;
+}
+.career_image_section {
+	max-width: 525px;
+	text-align: center;
+	margin: 0px auto;
+
+}
+.career_image_section img{
+	width:100%;
+	height: auto;
+}
+.careers_section .cta_btn2{
+	margin: 40px auto;
+}
+.careers_intro_section {
+	padding:50px 0;
+}
+.careers_intro_section .career_three_col {
+	display: flex;
+}
+.careers_intro_section .card_detail h4 {
+	margin: 20px 0;
+	font-size: 28px;
+	color: #5462d1;
+	padding: 0 0px;
+}
+.careers_intro_section .card_detail p {
+	padding: 0 35px;
+}
+.careers_intro_section .career_flex_card {
+	text-align: center;
+	padding: 30px 20px;
+	border-radius: 10px;
+	box-shadow: 0px 2px 20px rgba(84,98,209,0.1),0px 47px 46px rgba(84,98,209,0.22);
+	width: 90%;
+	margin: 40px auto;
+}
+.job_opening_form {
+	background: #e7e9f2;	padding: 70px 0;
+}
+.job_opening_form_detail {
+	background: #fff;
+	padding: 30px;
+	border-radius: 20px;
+}
+.job_opening_form_detail .job_search_detail {
+	align-items: center;padding: 0 0 20px;
+	justify-content: space-between;
+}
+.job_search_detail h4 {
+	font-size: 36px;
+	color: #5462d1;margin: 0;
+}
+.job_search_detail p {
+	margin: 0;
+}
+.job_openiing_input {
+	padding: 10px 0;
+}
+.job-search__footer {
+	display: flex;
+	align-items: center;margin: 20px 0 0;
+}
+.job-search__footer .job-search__filter-title{
+	color: #727986;
+	margin-right: 15px;
+	font-size: 16px;
+}
+.contact_section_three_col {
+	padding: 100px 0;
+}
+.contact_section_three_col_heading h1 {
+	font-size: 4rem;
+	font-weight: normal;
+	color: #5462d1;margin: 0 0 30px;
+	line-height: 1.2;
+	font-family: "tiempos",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+	padding: 0px 0;
+}
+.contact_card_flex_detail h4 {
+	margin: 15px 0;
+	font-size: 30px;
+	font-weight: 400;
+	color: #5462d1;
+	line-height: 1.2;
+}
+.contact_card_flex_detail p {
+	font-size: 16px;margin: 0;
+}
+.contact_flex_card:hover {
+	cursor: pointer;
+	transform: translateY(-4px);
+}
+.contact_flex_card a:hover {
+	color: #4c58bc;
+}
+.contact_flex_card {
+	width: 100%;
+	padding: 40px 30px;
+	border-radius: 10px;
+	box-shadow: 0px 2px 20px rgba(84,98,209,0.1),0px 47px 46px rgba(84,98,209,0.22);
+	transition: all 150ms ease-in-out;
+}
+.col-md-4.contact_three_col {
+	display: flex;
+	text-align: center;
+}
+.contact_card_image img {
+	width: auto;
+	height: 50px;
+}
+
+@media (max-width: 991px) {
+
+}
+@media (max-width:767px) {
+	.job_opening_form_detail .job_search_detail .col-md-12 {
+		flex-wrap:wrap;
+	}
+	.job_search_detail p {
+		margin: 10px 0 0;
+	}
+  .job_search_detail h4 {
+		font-size: 20px;
+	}
+	.job_opening_form_detail ul.job_listings li.no_job_listings_found.no_job_listings_found {
+		text-align: center;
+		font-size: 28px;
+		font-weight: 400;
+		padding: 40px 0px;
+		line-height: normal;
+	}
+  .contact_form_section .gform_wrapper.gravity-theme form input,
+	.contact_form_section .gform_wrapper.gravity-theme form textarea {
+		padding: 5px 10px;font-size: 16px;
+	}
+  .job_filters .search_jobs div.search_keywords, .job_filters .search_jobs div.filter_first {
+		float: none;
+		padding-right: 0;
+		margin:5px 0;
+		width: 100%;
+	}
+	.job_filters .search_jobs div.search_location, .job_filters .search_jobs div.filter_last {
+		float: none;
+		padding-left: 0;margin:5px 0;
+		width: 100%;
+	}
+	ul.job_listings li.job_listing a div.position, ul.job_listings li.no_job_listings_found a div.position {
+		float: none;
+		width: 100%;
+		padding: 0;
+	}
+	ul.job_listings li.job_listing a div.location, ul.job_listings li.no_job_listings_found a div.location {
+		float: none;
+		width: 100%;
+		padding: 0;
+		text-align: left;
+	}
+	ul.job_listings li.job_listing a .meta, ul.job_listings li.no_job_listings_found a .meta {
+		float: none;
+		width: 100%;
+		text-align: left;
+		padding: 0;
+	}
+  .careers_intro_section .career_flex_card {
+		margin: 20px auto;
+	}
+	.careers_section {
+		padding: 50px 0;
+	}
+	.careers_intro_section .card_detail h4 {
+		font-size: 26px;
+	}
+	.careers_intro_section .card_detail p {
+		padding: 0;
+	}
+  .contact_section_three_col_heading h1 {
+		font-size: 2rem;margin: 0;
+	}
+	.contact_section_three_col {
+		padding: 60px 0;
+	}
+	.contact_flex_card {
+		margin: 30px 0 0;
+	}
+	.press_heading_section .heading_content_section h2 {
+		font-size: 3rem;
+	}
+	.contact_map_info {
+		padding: 50px 25px;
+	}
+	.contact_us_map_section {
+		width: 100%;
+		height: 100%;
+		padding: 0 0 40px;
+	}
+	.press_contact_info h4, .contact_form_section h4 {
+		font-size: 20px;
+	}
+  .news-card {
+		margin: 20px 0;
+	}
+	.blog_post_image {
+		height: 200px;
+	}
+	.press_three_col_detail h3 {
+		font-size: 22px;
+		line-height: 1.4;
+	}
+	.press_three_col_detail h4 {
+		font-size: 14px;
+	}
+	.press_sections h4 {
+		margin: 18px 15px;
+		font-size: 22px;
+		line-height: 20px;
+	}
+	.press_three_col_detail p {
+		font-size:16px;
+	}
+	.press_heading_section .heading_content_section h2 {
+		font-size: 2rem;
+	}
+	.press_heading_section .heading_content_section p {
+		font-size: 20px;
+	}
+	.press_sections .row.content_head.col--centered.text-center {
+		justify-content: center;
+		display: block;
+	}
+	.press_sections h3 {
+		margin: 0 0 10px;
+		font-size: 18px;
+	}
+  .press_three_col {
+		padding: 0px 0 30px;
+	}
+  .customer_review_section_title h1 {
+		font-size: 2rem;
+	}
+	.achievement_section .content_three {
+		padding: 0px 15px 40px;
+	}
+	.customer_review_anchor_tag {
+		padding: 40px 0;
+	}
+	.customer_review_section {
+		padding: 80px 0;
+	}
+	.story_vision_section {
+		padding: 50px 0 20px;
+	}
+  .our_story_video {
+		margin-top: 15px;
+	}
+  .heading_subheading_content_section {
+		padding: 30px 0;
+	}
+  .faq_section {
+		padding: 30px 0;
+	}
+	.faq_section summary {
+		margin-bottom: 0rem;
+		font-size: 18px;
+	}
+  .our_story_three_col {
+		padding: 30px 0;
+	}
+	.our_story_three_col .content_three {
+		margin: 20px 0 0;
+	}
+	.our_story_three_col .content_three p {
+		padding: 0px 0px;
+	}
+  .join_our_team {
+		padding: 40px 0 70px;
+	}
+	.join_our_team .heading_content_section p {
+		padding: 10px 0px;
+	}
+	.cta_btn2 {
+		padding: 16px 30px;
+	}
+}
+@media (min-width: 768px) and (max-width: 991px) {
+	.careers_intro_section .card_detail p {
+		padding: 0;
+	}
+	.careers_intro_section .card_detail h4 {
+		font-size: 26px;
+	}
+	.contact_section_three_col_heading h1 {
+		font-size: 3rem;
+	}
+	.contact_flex_card {
+		padding: 40px 15px;
+	}
+	.contact_card_flex_detail h4 {
+		font-size: 22px;
+	}
+	.contact_us_map_section {
+		width: 100%;
+		height: 100%;
+		padding: 0 0 40px;
+	}
+	.contact_map {
+		width: 100%;
+		height: 250px;
+	}
+  .achievement_content h3 {
+		font-size: 2rem;
+	}
+	.achievement_content {
+		padding: 0 0 0 15px;
+		max-width: 76%;
+	}
+	.achievement_content p {
+		margin: 0;
+		font-weight: 400;
+		font-size: 15px;
+		line-height: normal;
+	}
+  .customer_review_section_title h1 {
+		font-size: 3rem;
+	}
+	.achievement_section .content_three {
+		padding: 50px 15px;
+	}
+  .our_story_three_col .content_three p {
+		padding: 0;
+	}
+	.our_story_three_col .content_three h4 {
+		font-size: 20px;
+	}
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+	.careers_intro_section .career_flex_card {
+		width: 100%;
+	}
+	.careers_intro_section .card_detail p {
+		padding: 0;
+	}
+	.press_contact_info h4 {
+		font-size: 20px;
+	}
+	.contact_info_detail {
+		padding: 0px 10px 10px 0;
+	}
+  .achievement_section .content_three {
+		padding: 60px 15px;
+	}
+}

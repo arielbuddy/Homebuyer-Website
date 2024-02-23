@@ -1,0 +1,12 @@
+<?php
+require_once('functions/theme.php');
+require_once('functions/admin.php');
+require_once('functions/learn.php');
+require_once('functions/post.php');
+require_once('functions/research.php');
+require_once('functions/charts.php');
+require_once('functions/maps.php');
+require_once('functions/cities.php');
+require_once('functions/usda.php');
+require_once('functions/gtm.php');
+require_once('functions/seo.php');

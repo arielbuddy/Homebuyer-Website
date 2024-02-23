@@ -1,0 +1,276 @@
+.company_logo_testimonials{
+	padding:40px 0;
+}
+.homebuyer_heading h5 {
+	text-align: center;
+	color: #61657D;
+	margin: 0;
+	font-size: 18px;
+	font-weight: 300;
+	line-height: 1.5;
+}
+.company_logo_testimonials .logo_images_home img {
+	width: auto;
+	height: 80px;
+}
+.company_logo_testimonials .logo_images_home{
+	width:160px;
+}
+.home_two_col{
+	padding:50px 0;
+}
+.home_two_col_heading h2 span {
+	border-bottom: 5px solid #dd0;
+}
+.home_two_col_heading{
+	text-align:center;
+	padding-bottom:50px;
+}
+.home_two_col_heading h2{
+	font-size: 2.55556rem;
+	color: #25262d;
+	font-weight: 400;
+	margin: 0 auto;
+	line-height: 1.2;
+	max-width: 720px;
+}
+.home_two_col .left_two_col {
+	padding-right:100px;
+}
+.home_two_col .left_two_col h4 {
+	padding: 0px 0 20px;
+	font-size:33px;
+	color: #5462d1;
+	margin: 0;
+}
+.home_two_col .left_two_col h3 {
+	font-size: 24px;
+	text-transform: uppercase;
+	color: #25262d;
+	margin-bottom: 10px;
+	font-family: "circular-bold",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+}
+.home_two_col .left_two_col p{
+	font-size: 18px;
+	font-weight: 300;
+	line-height: 1.5;
+	color: #61657d;
+	padding: 0 80px 0 0px;
+}
+.home_two_col img {
+	width:100%;
+	height: auto;
+}
+
+.main_headings{
+	text-align:center;
+	max-width:730px;
+	margin:0px auto;
+}
+.main_headings h3 {
+	font-size: 24px;
+	font-family: "circular-bold",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+	text-transform: uppercase;
+	color: #25262d;
+	margin-bottom: 10px;
+}
+
+.main_headings h2 {
+	font-size: 36px;
+	font-weight: 400;
+	color: #5462d1;
+}
+.home_three_col {
+	padding: 50px 0;
+}
+.home_three_col .col_content_three{
+	text-align:center;
+	margin:60px 0 0;
+}
+.home_three_col .col_content_three p {
+	color: #5462d1;
+	font-size: 18px;
+	font-weight: 300;
+	line-height: 1.5;
+	margin-top: 0;
+	margin-bottom: 0;
+	padding: 0px 100px;
+}
+.review_stars span{
+	font-size: 100px;
+	color: #f4867a;
+	line-height: 0.8em;
+}
+.review_stars{
+	margin: 80px 0 30px;
+}
+.education_course_review h3{
+	font-size: 24px;
+	font-family: "circular-bold",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+	text-transform: uppercase;
+	color: #25262d;
+	margin-bottom: 10px;
+}
+.education_course_review h2{
+	font-family: "circular",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+	font-size: 36px;
+	font-weight: 400;
+	color: #5462d1;
+}
+.qt_bs {
+	background: #f4f5f6;
+	border-radius: 10px;
+	text-align: left;display: flex;
+	padding: 60px 50px;
+	margin: 0 10px;
+}
+.qt_bs_cnt img{
+	filter: grayscale(1);
+}
+.qt_bs_cnt blockquote p{
+	line-height: 1.5em;
+	font-size: 22px;
+	margin:10px 0 38px;
+	color: #61657d;
+}
+.qt_bs_cnt h3{
+	font-family: "circular-bold",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+	color: #25262d;
+	margin: 0 0 3px 0;
+	font-size: .83333rem;
+}
+.qt_bs_cnt p{
+	font-size: .83333rem;
+	margin: 0;
+	color: #25262d;
+}
+.education_course_testi .slick-track {
+	display:flex;
+}
+.education_course_testi .slick-slide {
+	display: flex !important;height: auto;
+}
+.slick-active .qt_bs_cnt img{
+	filter: grayscale(0);
+}
+.slick-active .qt_bs{
+	background: #fff;
+	opacity: 1;
+	box-shadow: 0px 2px 20px rgba(84,98,209,0.1),0px 33px 35px -27px rgba(84,98,209,0.22);
+}
+#education_course_testi{
+	padding:0 0 100px;
+}
+#education_course_testi .slick-list{
+	padding-top:40px !important;
+	padding-bottom:40px !important;
+}
+#education_course_testi .slick_btn{
+	display: flex;
+	justify-content: center;
+	margin: 00px 0 0;
+}
+#education_course_testi  button{
+	width: 50px;
+	height: 50px;
+	display: block;
+	border: 0;
+	background: url(../../images/slick_arrow-next.png);
+	font-size: 0;
+	padding: 0;
+	background-size: 15px;
+	background-repeat: no-repeat;
+	background-position: center;
+	margin: 0 30px;
+	border-radius: 50%;
+	transition:0.3s;outline:none;
+}
+#education_course_testi button.slick-prev{
+	background: url(../../images/slick_arrow-prv.png);
+	background-size: 15px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+#education_course_testi  button:hover{
+	background-color: #f2f4fb;
+	cursor: pointer;
+	transition:0.3s;
+}
+@media (max-width: 991px) {
+	.qt_bs{padding:25px;}
+	.qt_bs_cnt blockquote{font-size:16px;}
+	.education_course_body_cnt h1, .education_course_body_cnt h2, .education_course_review h2{font-size:22px;}
+	.education_course_body_cnt h3, .education_course_body_cnt h4,
+	.education_course_body_cnt h5, .education_course_body_cnt h6, .education_course_review h3{font-size:18px;}
+	.review_stars span{font-size:60px;}
+	.review_stars{margin:40px 0 30px;}
+  #education_course_testi  button, #education_course_testi button.slick-prev{width: 40px;height: 40px;background-size: 10px;
+	}
+	.education_course_review {
+		padding:0px 15px;
+	}
+}
+@media (max-width:767px) {
+	.main_headings h2 {
+		font-size: 22px;
+	}
+	.main_headings h3 {
+		font-size: 18px;
+	}
+	.home_three_col .col_content_three {
+		text-align: center;
+		margin: 20px 0 0;
+	}
+	.home_three_col .col_content_three p {
+		padding: 0;
+	}
+  .home_two_col .left_two_col {
+		padding-right: 0;
+	}
+	.home_two_col .left_two_col p {
+		text-align: center;
+		padding: 0;
+	}
+	.home_two_col .left_two_col h4 {
+		font-size: 22px;text-align: center;
+	}
+	.home_two_col .left_two_col h3 {
+		font-size: 18px;text-align: center;
+	}
+	.home_two_col_heading {
+		padding-bottom: 20px;
+	}
+	.home_two_col_heading h2 {
+		font-size: 28px;
+	}
+}
+@media (min-width: 768px) and (max-width: 991px) {
+	.home_two_col .left_two_col {
+		padding-right: 0;
+	}
+	.home_two_col .left_two_col p {
+		padding: 0;
+	}
+	.home_three_col .col_content_three p {
+		padding: 0;
+	}
+	.company_logo_testimonials .logo_images_home {
+		width: 140px;
+	}
+	.company_logo_testimonials .logo_images_home img {
+		height: auto;
+	}
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+	.home_two_col .left_two_col {
+		padding-right: 60px;
+	}
+	.home_two_col .left_two_col p {
+		padding:0 60px 0 0px;
+	}
+	.home_three_col .col_content_three p {
+		padding: 0 50px;
+	}
+  
+}

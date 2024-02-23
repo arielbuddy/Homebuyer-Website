@@ -1,0 +1,479 @@
+.curriculum_heading_section {
+	padding: 64px 0;
+}
+.curriculum_two_col {
+	padding: 50px 0px;
+}
+.curriculum_two_col .left_detail h2 {
+	font-size: 2.04444rem;
+	color: #5462d1;
+	font-family: "circular-bold",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;margin: 0 0 12px;
+}
+.curriculum_two_col .left_detail h3 {
+	font-size: 16px;
+	color: #5462d1;
+	font-family: "circular-bold",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+	text-transform: uppercase;
+	margin: 0 0 20px;
+}
+.curriculum_two_col .left_detail p{
+	padding-right:120px;
+}
+.curriculum_two_col .right_video_section iframe {
+	width:100%;
+}
+.curriculum_avilable_units_two_col {
+	padding: 50px 0;
+}
+.curriculum_avilable_units_two_col .heading_content_section{
+	text-align:center;
+}
+.curriculum_avilable_units_two_col .heading_content_section h2{
+	font-family: "circular-bold",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+	font-size: 36px;
+	margin: 0;
+}
+.curriculum_avilable_units_two_col .card_upper_section {
+	width: 100%;
+	display: flex;
+	border-radius: 10px 10px 0 0;
+	height: 240px;
+	overflow: hidden;
+	align-items: center;
+}
+.curriculum_avilable_units_two_col .card_upper_section img {
+	width: 100%;
+	height: auto;
+	border-radius: 10px 10px 0 0;
+}
+.curriculum_avilable_units_two_col .card_btn a, .curriculum_avilable_units_two_col .card_btn span {
+	color: #fff;
+	font-size: 18px;
+	background: #5462d1;
+	border: 1px solid #5462d1;
+	border-radius: 150px;
+	line-height: normal;padding: 10px 20px;
+}
+.curriculum_avilable_units_two_col .card_btn a:hover{
+	color: #fff;
+	background: #4c58bc !important;
+	border: 1px solid #4c58bc !important;
+}
+.curriculum_avilable_units_two_col .card_btn span{
+	background: #5462d1;
+}
+.curriculum_card_detail {
+	border-radius: 10px;margin: 50px 0 0;
+	box-shadow: 0px 2px 20px rgba(84,98,209,0.1),0px 47px 46px rgba(84,98,209,0.22);
+}
+.curriculum_card_detail.no-access {
+	opacity:0.5;
+}
+.curriculum_avilable_units_two_col .card_btn {
+	padding: 40px 0;
+}
+.education_course_banner{
+	background-color: #5664c9;
+	background-image:url(../../images/curriculum-header-background.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: bottom;
+	padding:5rem 0;
+}
+.education_course_cnt h1, .education_course_cnt h2,
+.education_course_cnt h3, .education_course_cnt h4,
+.education_course_cnt h5, .education_course_cnt h6{
+	font-family: "tiempos",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;margin: 0 0 20px;
+	font-size: 46px;
+	color:#fff;
+	margin: 0 0 30px;
+	line-height: 1.2em;
+}
+.education_course_cnt p{
+	font-size:20px;
+	font-family: "circular-bold",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+	color:#fff;
+	font-weight: bold;
+	margin:0 0 30px;
+}
+.education_course_cnt ul{
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+.education_course_cnt ul li{
+	font-size: 20px;
+	color: #fff;
+	display: block;
+	margin: 0 0 15px;
+	line-height: 1.4em;
+	position: relative;
+	display:flex;
+}
+.education_course_cnt ul li:before{
+	content:"";
+	width:20px;
+	height:20px;
+	background-image:url(../../images/arrow-list-icon.png);
+	display: inline-block;
+	background-size: 8px;
+	background-repeat: no-repeat;
+	background-position: left center;
+	flex: 0 0 20px;
+	margin-top: 6px;
+}
+.education_course_form {
+	padding: 20px;
+	background: #fff;
+	border-radius: 5px;
+	box-shadow: 0px 2px 20px rgba(84,98,209,0.1),0px 47px 46px -27px rgba(84,98,209,0.22);
+}
+.education_course_form h3{
+	color: #5664c9;
+	font-size: 28px;
+	font-family: "circular-bold",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+	font-weight: bold;
+	margin: 0;
+	display: block;
+	text-align: center;
+}
+.education_course_body{
+	padding:5rem 0px 3rem;
+}
+.education_course_body_cnt h1, .education_course_body_cnt h2{
+	font-family: "circular-bold",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+	font-size: 30px;
+	color: #5664c9;
+	margin: 30px 0 20px;
+	display: block;
+	line-height: 1.3em;
+}
+.education_course_body_cnt h3, .education_course_body_cnt h4,
+.education_course_body_cnt h5, .education_course_body_cnt h6{
+	font-family: "circular-bold",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+	font-size: 22px;
+	margin: 0 0 20px;
+	display: block;
+	line-height: 1.3em;
+}
+.education_course_body_cnt p{
+	margin:0 0 20px;
+}
+.education_course_body_cnt ul{
+	margin:0 0 20px;
+}
+.education_course_body_cnt ul li{
+	color: #61657d;
+	margin: 0 0 10px;
+}
+.education_course_body_cnt ul li:last-child{margin:0px;}
+
+.review_stars span{
+	font-size: 100px;
+	color: #f4867a;
+	line-height: 0.8em;
+}
+.review_stars{
+	margin: 80px 0 30px;
+}
+.education_course_review h3{
+	font-size: 24px;
+	font-family: "circular-bold",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+	text-transform: uppercase;
+	color: #25262d;
+	margin-bottom: 10px;
+}
+.education_course_review h2{
+	font-family: "circular",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+	font-size: 36px;
+	font-weight: 400;
+	color: #5462d1;
+}
+.qt_bs {
+	background: #f4f5f6;
+	border-radius: 10px;
+	text-align: left;display: flex;
+	padding: 60px 50px;
+	margin: 0 10px;
+}
+.qt_bs_cnt img{
+	filter: grayscale(1);
+}
+.qt_bs_cnt blockquote p{
+	line-height: 1.5em;
+	font-size: 22px;
+	margin:10px 0 38px;
+	color: #61657d;
+}
+.qt_bs_cnt h3{
+	font-family: "circular-bold",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+	color: #25262d;
+	margin: 0 0 3px 0;
+	font-size: .83333rem;
+}
+.qt_bs_cnt p{
+	font-size: .83333rem;
+	margin: 0;
+	color: #25262d;
+}
+.education_course_testi .slick-track {
+	display:flex;
+}
+.education_course_testi .slick-slide {
+	display: flex !important;height: auto;
+}
+.slick-active .qt_bs_cnt img{
+	filter: grayscale(0);
+}
+.slick-active .qt_bs{
+	background: #fff;
+	opacity: 1;
+	box-shadow: 0px 2px 20px rgba(84,98,209,0.1),0px 33px 35px -27px rgba(84,98,209,0.22);
+}
+#education_course_testi{
+	padding:0 0 100px;
+}
+#education_course_testi .slick-list{
+	padding-top:40px !important;
+	padding-bottom:40px !important;
+}
+#education_course_testi .slick_btn{
+	display: flex;
+	justify-content: center;
+	margin: 00px 0 0;
+}
+#education_course_testi  button{
+	width: 50px;
+	height: 50px;
+	display: block;
+	border: 0;
+	background: url(../../images/slick_arrow-next.png);
+	font-size: 0;
+	padding: 0;
+	background-size: 15px;
+	background-repeat: no-repeat;
+	background-position: center;
+	margin: 0 30px;
+	border-radius: 50%;
+	transition:0.3s;outline:none;
+}
+#education_course_testi button.slick-prev{
+	background: url(../../images/slick_arrow-prv.png);
+	background-size: 15px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+#education_course_testi  button:hover{
+	background-color: #f2f4fb;
+	cursor: pointer;
+	transition:0.3s;
+}
+.education_course_form form input{
+	height: 50px;
+	margin: 20px 0 0 !important;
+}
+.education_course_form .gform_confirmation_wrapper {
+	text-align: center;
+	margin: 20px 0 20px;
+}
+.education_course_form form input[type="submit"]{
+	width: 100%;
+	height: 55px;
+	border: 0;
+	cursor: pointer;
+	font-weight: bold;
+	border-radius: 50px;
+	background: #5462D1;
+	color: #fff;
+}
+.education_course_form form p{margin:0;}
+.education_course_form .wpcf7-spinner{
+	display:none;
+}
+.education_course_body.btsd{
+	padding: 0px 0 3rem;
+}
+.education_course_form form label{width:100%;}
+.education_course_form img{
+	max-width: 250px;
+	width: 100%;
+	height: auto;
+	margin: 0px auto 20px;
+	display: block;
+}
+.education_bt_form{
+	background:url(../../images/cta-background.jpg);
+	padding: 5rem 0 0px;
+	background-size: 100% 86%;
+	background-position: top;
+	margin-bottom: 5rem;
+	background-repeat: no-repeat;
+}
+.education_bt_form .education_course_form{padding:40px;}
+.curriculum_lesson_page_heading{
+	padding:64px 0;
+}
+.curriculum_lesson_summary_heading h4 {
+	font-family: 'Circular';
+	font-size: 36px;
+	font-weight: 400;
+	color: #5462d1;
+}
+.curriculum_lesson_page_two_col {
+	padding: 50px 0;
+}
+.curriculum_lesson_page_two_col li {
+	text-decoration: none;
+	list-style: none;
+	font-size: 18px;
+	line-height: 1.5;
+}
+.curriculum_lesson_page_two_col .curriculum_lesson_right_content li{
+	font-size: 18px;
+	font-weight: 300;
+	line-height: 1.5;
+	color: #61657d;
+	padding: 12px 0 0;
+	list-style: disc;
+}
+.curriculum_lesson_page_two_col .curriculum_lesson_right_content h2{
+	color: #5462d1;
+}
+.curriculum_lesson_page_two_col .curriculum_lesson_right_content .curriculum_lesson_right_detail_link li {
+	list-style:none;
+}
+.curriculum_lesson_page_two_col .curriculum_lesson_right_content ul ,
+.curriculum_lesson_page_two_col .curriculum_lesson_right_content ol {
+	padding: 0 0 0 15px;
+}
+.link-text.active {
+	background: #f5f5f5;
+	border-left: solid 2px #cecece;
+}
+.curriculum_lesson_page_two_col a {
+	color: #5462d1;
+	transition: all 150ms ease;
+	font-family: "circular",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+	padding: 5px 10px;
+	display: block;
+	text-decoration: none;
+}
+.link-text {
+	/* 	background: #ffe7e7; */
+	border-left: 2px solid #ff9d9d !important;
+	/* 	pointer-events: none; */
+	color: #5462d1;
+}
+.curriculum_lesson_summary h5 {
+	padding-top: 15px;
+	font-size: 16px;font-family: "circular-BOLD",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+}
+.curriculum_lesson_page_two_col ul {
+	padding: 0;
+}
+.curriculum_lesson_video iframe {
+	width: 100%;
+	height: 100%;
+}
+.curriculum_lesson_video {
+	width: 100%;
+	height: 450px;
+	padding: 15px 0;
+}
+.curriculum_lesson_video_heading h2 {
+	font-size: 2.04444rem;
+	color: #5462d1;
+	font-family: 'Circular-bold';
+	font-weight: bold;
+}
+.curriculum_lesson_right_content {
+	padding: 90px 0;
+}
+.curriculum_lesson_right_content h4 {
+	font-family: "circular-bold",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;margin: 30px 0 10px;
+	font-weight: 700;
+	font-size: 1rem;
+	line-height: 1.5;
+	color: #61657d;
+}
+.curriculum_lesson_right_detail_link h4 {
+	font-size: 36px;
+	font-weight: 400;
+	color: #5462d1;
+	font-family: 'Circular';
+}
+
+@media (max-width: 991px) {
+	.education_course_cnt h1, .education_course_cnt h2, .education_course_cnt h3,
+	.education_course_cnt h4, .education_course_cnt h5, .education_course_cnt h6{
+		font-size: 30px;margin: 0 0 20px;
+	}
+	.education_course_cnt p{font-size:18px;margin: 0 0 20px}
+	.education_course_cnt ul li{font-size:16px;}
+	.education_course_cnt ul li::before{margin-top: 3px;background-size: 7px;}
+	.education_course_form{margin-top:20px;}
+	.education_course_form h3{font-size:20px;}
+	.education_course_banner{padding:3rem 0;}
+  .qt_bs{padding:25px;}
+	.qt_bs_cnt blockquote{font-size:16px;}
+	.education_course_body_cnt h1, .education_course_body_cnt h2, .education_course_review h2{font-size:22px;}
+	.education_course_body_cnt h3, .education_course_body_cnt h4,
+	.education_course_body_cnt h5, .education_course_body_cnt h6, .education_course_review h3{font-size:18px;}
+	.review_stars span{font-size:60px;}
+	.review_stars{margin:40px 0 30px;}
+  .education_course_body {padding: 0px 0 30px;}
+  #education_course_testi  button, #education_course_testi button.slick-prev{width: 40px;height: 40px;background-size: 10px;
+	}
+	.education_course_review {
+		padding:0px 15px;
+	}
+}
+@media (max-width:767px) {
+  .curriculum_lesson_right_content {
+		padding: 50px 0;
+	}
+	.curriculum_lesson_page_two_col .right_detail{
+		padding:40px 0 0;
+	}
+	.curriculum_lesson_video_heading h2 {
+		font-size: 24px;
+	}
+	.curriculum_lesson_summary_heading h4 {
+		font-size: 28px;
+	}
+	.curriculum_lesson_page_heading {
+		padding: 40px 0;
+	}
+  .curriculum_avilable_units_two_col .heading_content_section h2 {
+		font-size: 26px;
+	}
+	.curriculum_avilable_units_two_col .card_upper_section {
+		height: 150px;
+	}
+	.curriculum_heading_section {
+		padding: 40px 0;
+	}
+	.curriculum_two_col .left_detail h2 {
+		font-size: 24px;
+	}
+	.curriculum_two_col .left_detail p {
+		padding-right: 0;
+	}
+  .education_course_form img{max-width: 180px;}
+	.education_bt_form{padding:20px 0 0;margin-bottom: 0;}
+	.education_bt_form .education_course_form{padding:20px;}
+}
+@media (min-width: 768px) and (max-width: 991px) {
+	.curriculum_lesson_summary_heading h4 {
+		font-size: 28px;
+	}
+	.curriculum_lesson_video_heading h2 {
+		font-size: 26px;
+	}
+	.curriculum_avilable_units_two_col .card_upper_section {
+		height: 180px;
+	}
+	.curriculum_two_col .left_detail p {
+		padding-right: 0;
+	}
+}

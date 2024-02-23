@@ -1,0 +1,874 @@
+[
+    {
+        "section": "Mortgages At-A-Glance",
+        "headers": [
+            "Conventional",
+            "FHA",
+            "VA",
+            "USDA",
+            "HomeStyle Renovation",
+            "FHA 203K",
+            "HomeReady",
+            "Home Possible",
+            "Conventional 97"
+        ],
+        "rows": [
+            {
+                "label": "Minimum Loan Size Allowed",
+                "Conventional": "None",
+                "FHA": "None"
+            },
+            {
+                "label": "Maximum Loan Size Allowed",
+                "Conventional": "<a href=\"https://homebuyer.com/mortgage-loan-limits\">See Loan Limits</a>",
+                "FHA": "<a href=\"https://homebuyer.com/mortgage-loan-limits\">See Loan Limits</a>"
+            },
+            {
+                "label": "Maximum Household Income Allowed",
+                "Conventional": "No Restrictions",
+                "FHA": "No Restrictions"
+            },
+            {
+                "label": "Minimum Credit Score Required",
+                "Conventional": "620",
+                "FHA": "500"
+            },
+            {
+                "label": "Debt-to-Income Maximum - Standard",
+                "Conventional": "50.00%",
+                "FHA": "43.00%"
+            },
+            {
+                "label": "Debt-to-Income Maximum with Compensating Factors",
+                "Conventional": "50.00%",
+                "FHA": "50.00%"
+            },
+            {
+                "label": "Minimum Downpayment Required",
+                "Conventional": "3.00%",
+                "FHA": "3.50%"
+            },
+            {
+                "label": "Maximum Loan-To-Value Allowed",
+                "Conventional": "97.00%",
+                "FHA": "96.50%"
+            },
+            {
+                "label": "Maximum Combined Loan-to-Value Allowed",
+                "Conventional": "1.05",
+                "FHA": "1.25"
+            },
+            {
+                "label": "First-Time Homebuyer Education Required",
+                "Conventional": "No",
+                "FHA": "No"
+            },
+            {
+                "label": "Minimum Age Allowed",
+                "Conventional": "Minimum Legal Age",
+                "FHA": "Minimum Legal Age"
+            },
+            {
+                "label": "Maximum Age Allowed",
+                "Conventional": "None",
+                "FHA": "None"
+            },
+            {
+                "label": "<a href=\"https://homebuyer.com/learn/first-time-home-buyer\">First-Time Home Buyers</a> Allowed",
+                "Conventional": "Yes",
+                "FHA": "Yes"
+            },
+            {
+                "label": "First-Time Home Buyers Only",
+                "Conventional": "No",
+                "FHA": "No"
+            },
+            {
+                "label": "<a href=\"https://homebuyer.com/learn/low-down-payment-mortgage\">Low-Down Payment Mortgage</a> Classification",
+                "Conventional": "No",
+                "FHA": "Yes"
+            },
+            {
+                "label": "Income Verification Required",
+                "Conventional": "Yes",
+                "FHA": "Yes"
+            },
+            {
+                "label": "Military Service Required",
+                "Conventional": "No",
+                "FHA": "No"
+            },
+            {
+                "label": "States Allowed",
+                "Conventional": "All States",
+                "FHA": "All States"
+            },
+            {
+                "label": "Homeowners Insurance Required",
+                "Conventional": "Yes",
+                "FHA": "Yes"
+            },
+            {
+                "label": "Escrow Taxes & Insurance Required",
+                "Conventional": "Recommended",
+                "FHA": "Yes"
+            }
+        ]
+    },
+    {
+        "section": "Compare Mortgage Statistics",
+        "headers": [
+            "Conventional",
+            "FHA",
+            "VA",
+            "USDA",
+            "HomeStyle Renovation",
+            "FHA 203K",
+            "HomeReady",
+            "Home Possible",
+            "Conventional 97"
+        ],
+        "rows": [
+            {
+                "label": "Average Interest Rate: Last Year",
+                "Conventional": "4.97%",
+                "FHA": "4.99%"
+            },
+            {
+                "label": "Average Loan Size: Last Year",
+                "Conventional": "$402,642",
+                "FHA": "$279,773"
+            },
+            {
+                "label": "Average Approval Rate: Last Year",
+                "Conventional": "70.51%",
+                "FHA": "75.02%"
+            },
+            {
+                "label": "Market Share: Last Year",
+                "Conventional": "69.70%",
+                "FHA": "17.97%"
+            },
+            {
+                "label": "Purchase Mortgages Originated: Last Year",
+                "Conventional": "3,442,038",
+                "FHA": "887,234"
+            }
+        ]
+    },
+    {
+        "section": "Compare Mortgage Products",
+        "headers": [
+            "Conventional",
+            "FHA",
+            "VA",
+            "USDA",
+            "HomeStyle Renovation",
+            "FHA 203K",
+            "HomeReady",
+            "Home Possible",
+            "Conventional 97"
+        ],
+        "rows": [
+            {
+                "label": "1-Year ARM Available",
+                "Conventional": "Yes",
+                "FHA": "Yes"
+            },
+            {
+                "label": "5-Year ARM Available",
+                "Conventional": "Yes",
+                "FHA": "Yes"
+            },
+            {
+                "label": "10-Year Fixed-Rate Mortgage Available",
+                "Conventional": "Yes",
+                "FHA": "Yes"
+            },
+            {
+                "label": "15-Year Fixed-Rate Mortgage Available",
+                "Conventional": "Yes",
+                "FHA": "Yes"
+            },
+            {
+                "label": "20-Year Fixed-Rate Mortgage Available",
+                "Conventional": "Yes",
+                "FHA": "Yes"
+            },
+            {
+                "label": "25-Year Fixed-Rate Mortgage Available",
+                "Conventional": "No",
+                "FHA": "Yes"
+            },
+            {
+                "label": "30-Year Fixed-Rate Mortgage Available",
+                "Conventional": "Yes",
+                "FHA": "Yes"
+            },
+            {
+                "label": "Temporary Buydowns Available",
+                "Conventional": "Yes",
+                "FHA": "Restricted"
+            }
+        ]
+    },
+    {
+        "section": "Compare Mortgage Insurance",
+        "headers": [
+            "Conventional",
+            "FHA",
+            "VA",
+            "USDA",
+            "HomeStyle Renovation",
+            "FHA 203K",
+            "HomeReady",
+            "Home Possible",
+            "Conventional 97"
+        ],
+        "rows": [
+            {
+                "label": "Funding Fee / Guarantee Fee",
+                "Conventional": "No",
+                "FHA": "No"
+            },
+            {
+                "label": "Upfront Mortgage Insurance Premium",
+                "Conventional": "No",
+                "FHA": "Yes"
+            },
+            {
+                "label": "Annual Mortgage Insurance Premium",
+                "Conventional": "No",
+                "FHA": "Yes"
+            },
+            {
+                "label": "Private Mortgage Insurance",
+                "Conventional": "Yes",
+                "FHA": "No"
+            }
+        ]
+    },
+    {
+        "section": "Compare Occupancy Rules",
+        "headers": [
+            "Conventional",
+            "FHA",
+            "VA",
+            "USDA",
+            "HomeStyle Renovation",
+            "FHA 203K",
+            "HomeReady",
+            "Home Possible",
+            "Conventional 97"
+        ],
+        "rows": [
+            {
+                "label": "Primary Residence",
+                "Conventional": "Yes",
+                "FHA": "Yes"
+            },
+            {
+                "label": "Second Home",
+                "Conventional": "Yes",
+                "FHA": "Restricted"
+            },
+            {
+                "label": "Vacation Home",
+                "Conventional": "Yes",
+                "FHA": "No"
+            },
+            {
+                "label": "Investment Property",
+                "Conventional": "Yes",
+                "FHA": "No"
+            },
+            {
+                "label": "Non-Occupant Co-Borrower",
+                "Conventional": "Yes",
+                "FHA": "Yes"
+            }
+        ]
+    },
+    {
+        "section": "Compare Citizenship Rules",
+        "headers": [
+            "Conventional",
+            "FHA",
+            "VA",
+            "USDA",
+            "HomeStyle Renovation",
+            "FHA 203K",
+            "HomeReady",
+            "Home Possible",
+            "Conventional 97"
+        ],
+        "rows": [
+            {
+                "label": "U.S. Citizen Allowed",
+                "Conventional": "Yes",
+                "FHA": "Yes"
+            },
+            {
+                "label": "Permanent Resident Alien Allowed",
+                "Conventional": "Yes",
+                "FHA": "Yes"
+            },
+            {
+                "label": "Non-Permanent Resident Alien Allowed",
+                "Conventional": "Yes",
+                "FHA": "Yes"
+            },
+            {
+                "label": "Foreign National Allowed",
+                "Conventional": "Yes",
+                "FHA": "Yes"
+            },
+            {
+                "label": "Buyers With Diplomatic Immunity Allowed",
+                "Conventional": "Yes",
+                "FHA": "Yes"
+            }
+        ]
+    },
+    {
+        "section": "Compare Credit Rules",
+        "headers": [
+            "Conventional",
+            "FHA",
+            "VA",
+            "USDA",
+            "HomeStyle Renovation",
+            "FHA 203K",
+            "HomeReady",
+            "Home Possible",
+            "Conventional 97"
+        ],
+        "rows": [
+            {
+                "label": "Credit Scoring Model",
+                "Conventional": "Tri-merge",
+                "FHA": "Tri-merge"
+            },
+            {
+                "label": "Non-Traditional Credit References Allowed",
+                "Conventional": "Yes",
+                "FHA": "Yes"
+            },
+            {
+                "label": "Deferred Student Loans",
+                "Conventional": "Lesser of 5% of balance or monthly payment",
+                "FHA": "Actual Payment or 0.5% of Loan Balance"
+            },
+            {
+                "label": "Deferred Debt Calculation",
+                "Conventional": "Lesser of 5% of balance or monthly payment",
+                "FHA": "Lesser of 5% of balance or monthly payment"
+            },
+            {
+                "label": "Pay Off Medical Collections Prior To Closing",
+                "Conventional": "Not Required",
+                "FHA": "Not Required"
+            },
+            {
+                "label": "Pay Off Non-Medical Collections Prior To Closing",
+                "Conventional": "Not Required",
+                "FHA": "Required when collections exceed $2,000"
+            },
+            {
+                "label": "Bankruptcy, Chapter 7",
+                "Conventional": "2-Year Waiting Period",
+                "FHA": "2-Year Waiting Period"
+            },
+            {
+                "label": "Bankruptcy, Chapter 13",
+                "Conventional": "4-Year Waiting Period",
+                "FHA": "1-Year From Filing"
+            },
+            {
+                "label": "Short Sale",
+                "Conventional": "4-Year Waiting Period",
+                "FHA": "3-Year Waiting Period"
+            },
+            {
+                "label": "Foreclosure",
+                "Conventional": "7-Year Waiting Period",
+                "FHA": "3-Year Waiting Period"
+            },
+            {
+                "label": "Judgments & Liens Allowed",
+                "Conventional": "Must be satisfied",
+                "FHA": "Must be satified"
+            },
+            {
+                "label": "Federal Income Tax Delinquency Allowed",
+                "Conventional": "Must be satisfied",
+                "FHA": "No"
+            }
+        ]
+    },
+    {
+        "section": "Compare Property Rules",
+        "headers": [
+            "Conventional",
+            "FHA",
+            "VA",
+            "USDA",
+            "HomeStyle Renovation",
+            "FHA 203K",
+            "HomeReady",
+            "Home Possible",
+            "Conventional 97"
+        ],
+        "rows": [
+            {
+                "label": "Minimum Square Footage Allowed",
+                "Conventional": "No minimum",
+                "FHA": "No minimum"
+            },
+            {
+                "label": "Maximum Square Footage Allowed",
+                "Conventional": "No maximum",
+                "FHA": "No maximum"
+            },
+            {
+                "label": "Single-Family Residences Allowed",
+                "Conventional": "Yes",
+                "FHA": "Yes"
+            },
+            {
+                "label": "Condominiums Allowed",
+                "Conventional": "Yes",
+                "FHA": "Yes"
+            },
+            {
+                "label": "Non-Warrantable Condominiums Allowed",
+                "Conventional": "No",
+                "FHA": "No"
+            },
+            {
+                "label": "Co-ops Allowed",
+                "Conventional": "Yes",
+                "FHA": "Yes"
+            },
+            {
+                "label": "Townhomes Allowed",
+                "Conventional": "Yes",
+                "FHA": "Yes"
+            },
+            {
+                "label": "2-4 Unit Homes Allowed",
+                "Conventional": "Yes",
+                "FHA": "Yes"
+            },
+            {
+                "label": "Manufactured Homes Allowed",
+                "Conventional": "Yes",
+                "FHA": "Yes"
+            },
+            {
+                "label": "Fraternity and Sorority Houses Allowed",
+                "Conventional": "No",
+                "FHA": "No"
+            },
+            {
+                "label": "Tiny Homes Allowed",
+                "Conventional": "Yes",
+                "FHA": "Yes"
+            },
+            {
+                "label": "Modular Homes Allowed",
+                "Conventional": "Yes",
+                "FHA": "Yes"
+            },
+            {
+                "label": "Cob Homes Allowed",
+                "Conventional": "No",
+                "FHA": "No"
+            },
+            {
+                "label": "Shipping Container Homes Allowed",
+                "Conventional": "Yes",
+                "FHA": "Yes"
+            },
+            {
+                "label": "Condotels Allowed",
+                "Conventional": "No",
+                "FHA": "No"
+            },
+            {
+                "label": "Bed & Breakfast Allowed",
+                "Conventional": "No",
+                "FHA": "No"
+            },
+            {
+                "label": "Working Farms Allowed",
+                "Conventional": "No",
+                "FHA": "No"
+            },
+            {
+                "label": "Working Ranches Allowed",
+                "Conventional": "No",
+                "FHA": "No"
+            },
+            {
+                "label": "Houseboats Allowed",
+                "Conventional": "No",
+                "FHA": "No"
+            },
+            {
+                "label": "Log Homes Allowed",
+                "Conventional": "No",
+                "FHA": "Yes"
+            },
+            {
+                "label": "Geodesic Homes Allowed",
+                "Conventional": "No",
+                "FHA": "No"
+            },
+            {
+                "label": "Timeshares Allowed",
+                "Conventional": "No",
+                "FHA": "No"
+            },
+            {
+                "label": "Homes with Solar Panels Allowed",
+                "Conventional": "Restricted",
+                "FHA": "Restricted"
+            },
+            {
+                "label": "3-D Printed Homes Allowed",
+                "Conventional": "Yes",
+                "FHA": "No"
+            },
+            {
+                "label": "Leasehold Estates Allowed",
+                "Conventional": "Yes",
+                "FHA": "Yes"
+            },
+            {
+                "label": "Mixed-Use Properties Allowed",
+                "Conventional": "No",
+                "FHA": "Yes"
+            },
+            {
+                "label": "Flood Zones Allowed",
+                "Conventional": "Only where insurable",
+                "FHA": "Only where insurable"
+            },
+            {
+                "label": "Properties With More Than 20 Acres Allowed",
+                "Conventional": "No",
+                "FHA": "Yes"
+            },
+            {
+                "label": "Properties with PACE Allowed",
+                "Conventional": "No",
+                "FHA": "No"
+            }
+        ]
+    },
+    {
+        "section": "Compare Ownership Rules",
+        "headers": [
+            "Conventional",
+            "FHA",
+            "VA",
+            "USDA",
+            "HomeStyle Renovation",
+            "FHA 203K",
+            "HomeReady",
+            "Home Possible",
+            "Conventional 97"
+        ],
+        "rows": [
+            {
+                "label": "Inter Vivos Revocable Trust Allowed",
+                "Conventional": "Yes",
+                "FHA": "Yes"
+            },
+            {
+                "label": "Closing in a Corporation Allowed",
+                "Conventional": "No",
+                "FHA": "Yes"
+            },
+            {
+                "label": "Community Land Trust Allowed",
+                "Conventional": "Yes",
+                "FHA": "Yes"
+            },
+            {
+                "label": "Non-Profit Organizations Allowed",
+                "Conventional": "No",
+                "FHA": "Yes"
+            },
+            {
+                "label": "Municipal Government Agencies Allowed",
+                "Conventional": "No",
+                "FHA": "Yes"
+            }
+        ]
+    },
+    {
+        "section": "Compare Income Rules",
+        "headers": [
+            "Conventional",
+            "FHA",
+            "VA",
+            "USDA",
+            "HomeStyle Renovation",
+            "FHA 203K",
+            "HomeReady",
+            "Home Possible",
+            "Conventional 97"
+        ],
+        "rows": [
+            {
+                "label": "W-2 Income Allowed",
+                "Conventional": "Yes",
+                "FHA": "Yes"
+            },
+            {
+                "label": "Self-Employment Income Allowed",
+                "Conventional": "Yes",
+                "FHA": "Yes"
+            },
+            {
+                "label": "Investment Income Allowed",
+                "Conventional": "Yes",
+                "FHA": "Yes"
+            },
+            {
+                "label": "Retirement Income Allowed",
+                "Conventional": "Yes",
+                "FHA": "Yes"
+            },
+            {
+                "label": "Trust Income Allowed",
+                "Conventional": "Yes",
+                "FHA": "Yes"
+            },
+            {
+                "label": "Social Security Income Allowed",
+                "Conventional": "Yes",
+                "FHA": "Yes"
+            },
+            {
+                "label": "Military Income Allowed",
+                "Conventional": "Yes",
+                "FHA": "Yes"
+            },
+            {
+                "label": "Rental Income Allowed",
+                "Conventional": "Restricted",
+                "FHA": "Restricted"
+            },
+            {
+                "label": "Asset Depletion as Income Allowed",
+                "Conventional": "Yes",
+                "FHA": "No"
+            },
+            {
+                "label": "Offer Letter Income Allowed",
+                "Conventional": "Yes",
+                "FHA": "No"
+            },
+            {
+                "label": "Disability Income Allowed",
+                "Conventional": "Yes",
+                "FHA": "Yes"
+            },
+            {
+                "label": "Alimony and Child Support Income Allowed",
+                "Conventional": "Yes",
+                "FHA": "Yes"
+            },
+            {
+                "label": "Boarder Income Allowed",
+                "Conventional": "No",
+                "FHA": "Restricted"
+            },
+            {
+                "label": "Accessory Dwelling Unit Income Allowed",
+                "Conventional": "No",
+                "FHA": "Yes"
+            },
+            {
+                "label": "Cannabis Industry Income Allowed",
+                "Conventional": "Yes",
+                "FHA": "No"
+            },
+            {
+                "label": "Automobile Allowance as Income Allowed",
+                "Conventional": "Yes",
+                "FHA": "Yes"
+            },
+            {
+                "label": "Housing Allowance as Income Allowed",
+                "Conventional": "Yes",
+                "FHA": "Yes"
+            },
+            {
+                "label": "Temporary Leave Income Allowed",
+                "Conventional": "Yes",
+                "FHA": "Restricted"
+            },
+            {
+                "label": "Bank Statements as Income Allowed",
+                "Conventional": "No",
+                "FHA": "No"
+            },
+            {
+                "label": "Debts Paid By Others as Income Allowed",
+                "Conventional": "Yes",
+                "FHA": "No"
+            }
+        ]
+    },
+    {
+        "section": "Compare Assets & Downpayment Rules",
+        "headers": [
+            "Conventional",
+            "FHA",
+            "VA",
+            "USDA",
+            "HomeStyle Renovation",
+            "FHA 203K",
+            "HomeReady",
+            "Home Possible",
+            "Conventional 97"
+        ],
+        "rows": [
+            {
+                "label": "Seasoning Requirements",
+                "Conventional": "60 Days",
+                "FHA": "30 Days"
+            },
+            {
+                "label": "Reserves Required",
+                "Conventional": "No",
+                "FHA": "No"
+            },
+            {
+                "label": "Cash Gift For Downpayment Allowed",
+                "Conventional": "Yes",
+                "FHA": "Yes"
+            },
+            {
+                "label": "Seller Concessions, Maximum",
+                "Conventional": "3.00%",
+                "FHA": "6.00%"
+            },
+            {
+                "label": "Salary Advance for Downpayment Allowed",
+                "Conventional": "No",
+                "FHA": "No"
+            },
+            {
+                "label": "Relocation Funds for Downpayment Allowed",
+                "Conventional": "Restricted",
+                "FHA": "Restricted"
+            },
+            {
+                "label": "Gift of Equity Allowed",
+                "Conventional": "Yes",
+                "FHA": "Yes"
+            },
+            {
+                "label": "Sweat Equity Allowed",
+                "Conventional": "Yes",
+                "FHA": "Yes"
+            },
+            {
+                "label": "Crypto for Downpayment Allowed",
+                "Conventional": "Yes",
+                "FHA": "Restricted"
+            },
+            {
+                "label": "Cash Value For Credit Card Rewards Allowed",
+                "Conventional": "Yes",
+                "FHA": "No"
+            },
+            {
+                "label": "Cash Value For Airline Rewards Allowed",
+                "Conventional": "Yes",
+                "FHA": "No"
+            }
+        ]
+    },
+    {
+        "section": "Compare Loan Traits",
+        "headers": [
+            "Conventional",
+            "FHA",
+            "VA",
+            "USDA",
+            "HomeStyle Renovation",
+            "FHA 203K",
+            "HomeReady",
+            "Home Possible",
+            "Conventional 97"
+        ],
+        "rows": [
+            {
+                "label": "Assumable Loan Allowed",
+                "Conventional": "No",
+                "FHA": "Yes"
+            },
+            {
+                "label": "Trailing Co-Borrower Allowed",
+                "Conventional": "Yes",
+                "FHA": "Yes"
+            },
+            {
+                "label": "Maximum Properties Financed Allowed",
+                "Conventional": "10",
+                "FHA": "1"
+            },
+            {
+                "label": "Property Flipping Allowed",
+                "Conventional": "Restricted",
+                "FHA": "Restricted"
+            },
+            {
+                "label": "Non-Arms Length Transactions Allowed",
+                "Conventional": "Yes",
+                "FHA": "Yes"
+            },
+            {
+                "label": "Occupancy Deadline",
+                "Conventional": "60 days",
+                "FHA": "60 days"
+            },
+            {
+                "label": "Delayed Financing Allowed",
+                "Conventional": "Yes",
+                "FHA": "No"
+            },
+            {
+                "label": "Prepayment Penalty Allowed",
+                "Conventional": "No",
+                "FHA": "No"
+            },
+            {
+                "label": "Termite Inspection Required",
+                "Conventional": "No",
+                "FHA": "Yes"
+            },
+            {
+                "label": "Power of Attorney Allowed",
+                "Conventional": "Yes",
+                "FHA": "Yes"
+            },
+            {
+                "label": "Repair Allowances Allowed",
+                "Conventional": "No",
+                "FHA": "No"
+            },
+            {
+                "label": "Gifts From Charitable Organizations Allowed",
+                "Conventional": "No",
+                "FHA": "No"
+            }
+        ]
+    }
+]

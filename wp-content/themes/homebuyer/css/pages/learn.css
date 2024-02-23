@@ -1,0 +1,697 @@
+.blog_post_content blockquote {
+	position: relative;
+	margin: calc(38px * 2) 0;
+	padding-left: 60px;
+	line-height: 40px;
+	font-size: 24px;
+	font-style: italic;color: #080e33;
+	font-weight: 500;padding-top: 10px;
+	padding-bottom: 10px;
+}
+.blog_post_content blockquote p {
+	color: #080e33; font-size: 24px;
+}
+.blog_post_content blockquote:before {
+	content: "";
+	position: absolute;
+	left: 0;
+	top: 50%;
+	transform: translateY(-50%);
+	height: 100%;
+	width: 120px;
+	padding: 10px 0;
+	background: #5462d1;
+	opacity: .1;
+}
+#alphabet-list{
+	background-color: #fff;
+	border-bottom: 1px solid #c6cce7;
+	border-top: 1px solid #c6cce7;
+	display: flex;
+	justify-content: space-between;
+	list-style-type: none;
+	margin: 0 0 2.111rem;
+	padding: 0;
+	width: 100%;
+	z-index: 1;
+}
+.callout {
+	background: #dde0f6;
+	padding: 39px 53px;
+	border-radius: 10px;
+	font-weight: 500;
+	color: #465060;
+	font-size: 22px;
+}
+.nav {
+	display: none;
+	margin: 0;
+	padding: 0;
+}
+
+.nav li {
+	display: inline-block;
+	list-style: none;
+	width: 100%;
+}
+.nav li ul li a{
+	color: #5462d1;
+	font-family: "circular",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+	margin: 0 auto;
+	padding: 8px 25px;
+	border-radius: 16px;
+	display: inline-block;
+	width: auto !important;
+}
+.nav li ul li a:hover{
+	color: #5462d1;
+}
+.nav li ul li a.active{
+	background: #f2f4fb;
+}
+.nav .button-dropdown {
+	position: relative;
+}
+
+.nav li a {
+	font-size: 18px;
+	text-transform: none;
+	margin: 0 0px;
+	font-family: "circular-bold",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+	color: #25262d;
+	padding: 12px 15px;
+}
+
+.nav li a:hover, .nav li a.dropdown-toggle.active {
+	background-color: transparent;
+	color: #25262d;
+}
+
+.nav li .dropdown-menu {
+	display: none;
+	position: static;
+	left: 0;
+	float:none;border:none;
+	width:100%;
+	padding: 0;
+	margin: 10px 0 0;
+	text-align: center;
+}
+.nav li .dropdown-menu.active {
+	display: block;
+}
+
+.nav li .dropdown-menu a {
+	width: 100%;
+}
+.nav li .dropdown-toggle::after {
+	content: "\F0140";
+	font-family: "Material Design Icons";
+	position: absolute;
+	top: 7px;
+	right: 12px;
+	margin-left: 0;
+	border: none;
+	font-size: 28px;
+}
+
+.btm_paginations{
+	padding: 100px 0 0;
+	margin: 0px auto;
+	text-align: center;
+}
+.btm_paginations span.current{
+	color: #5462d1;
+	background: #f2f4fb;
+	border-radius: 13px;
+}
+.btm_paginations .current, .btm_paginations a {
+	color: #465060;
+	font-weight: 500;
+	width: 45px;
+	height: 45px;
+	text-align: center;
+	line-height: 40px;
+	margin: 0 5px;
+	padding: 3px 5px;
+	display:inline-block;
+	border:none;
+}
+.btm_paginations a:hover {
+	color: #5462d1;
+	background: #f2f4fb;
+	border-radius: 13px;
+}
+.blog_post_page {
+	position: relative;padding: 40px 0;
+}
+.blog_post_page:before {
+	content: "";
+	position: absolute;
+	top: 0;
+	z-index: -1;
+	height: 283px;
+	width: 100%;
+	background: #f2f4fb;
+}
+.breadcrum_top{
+	display:flex;
+	flex-wrap:wrap;
+	padding:0 0 20px;
+	margin:0;
+}
+.breadcrum_top li {
+	font-size: 16px;
+	list-style: none;line-height: 1.5;
+	color: #61657d;
+	margin-right: 6px;
+}
+.breadcrum_top li a{
+	color: #5462d1;
+	font-weight: normal;
+	margin-right: 6px;
+}
+.breadcrum_top li strong {
+	font-family: "circular-bold",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+}
+.blog_post_page .main_featured_img img {
+	position: relative;
+	border-radius: 10px;
+	max-width: 100%;
+	max-height: 100%;
+	width: 100%;
+	height: auto;
+	margin: 0 auto;
+}
+.blog_post_page .blog_details_post {
+	max-width: 964px;
+	margin: 0px auto;
+}
+.blog_post_page .blog_post_content{
+	max-width: 737px;
+	padding: 50px 0 0;
+	margin: 0 auto;
+	position: relative;
+	/* overflow: hidden; */
+}
+.blog_post_page .blog_post_content.related_posts{
+	padding:64px 0;
+}
+.blog_post_page .blog_post_content.related_posts h3{
+	font-size: 24px;
+	font-family: "circular-bold",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+	text-transform: uppercase;
+	color: #25262d;
+	margin-bottom: 32px;
+}
+.blog_post_page .blog_post_content.related_posts a{
+	border-bottom: 1px solid #c9ccd1;
+	display: block;
+	margin-bottom: 50px;
+	padding-bottom: 50px;
+}
+.blog_post_page .blog_post_content.related_posts a:last-child {
+	border-bottom: 0;
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+.blog_post_page .blog_post_content.related_posts .relatedthumb {
+	display: flex;
+}
+
+.blog_post_page .blog_post_content.related_posts .related-post__img {
+	width: 100%;
+	margin-right: 32px;
+	border-radius: 10px;
+	max-width: 35%;
+}
+.blog_post_page .blog_post_content.related_posts .related-post__img img{
+	max-width: 100%;
+	height: auto;
+	border-radius: 10px;
+	overflow: hidden;
+	object-fit: cover;
+}
+.blog_post_page .blog_post_content.related_posts .related-post__body h4{
+	font-size: 22px;font-weight: normal;
+	margin-bottom: 10px;
+	margin-top:0;
+	line-height: 30px;
+	color: #465060;
+}
+.blog_post_page .blog_post_content.related_posts .related-post__body p {
+	font-size: 16px;
+	margin: 0;
+	line-height: 28px;
+}
+.blog_post_page .table-wrapper,
+.blog_post_page .wp-block-table {
+	overflow-x: auto;
+}
+.btn.related-post__btn {
+	font-size: 16px;
+	padding: 7px 30px;border-radius: 150px;
+	display: inline-block;margin-top: 20px;
+	text-decoration: none;background: #ea6455;
+	border: 1px solid #ea6455;color: #fff;
+}
+.btn.related-post__btn:hover {
+	background: #d35a4d;
+	border-color: #d35a4d;
+	color: #fff;
+}
+.blog_post_page .blog_post_content.related_posts .related-post__body {
+	max-width: 65%;
+}
+.blog_post_page .blog_post__heading {
+	max-width: 737px;
+	margin: 0 auto;
+}
+.blog_post_page .blog_post__heading h1 {
+	font-size: 46px;
+	font-weight: 600;
+	line-height: 1.3;color: #080e33;
+	font-family: "tiempos",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+}
+.blog-post__info {
+  display: flex;
+  align-items: center;
+	font-size: 16px;
+	margin: 30px 0 20px;
+	font-weight: 400;
+}
+.blog-post__info img {
+  max-width: 50px;
+  height: 50px;
+  width: 100%;
+  border-radius: 100%;
+  overflow: hidden;
+  vertical-align: middle;
+  margin-right: 10px;
+}
+.blog-post__info > div {
+  flex: 1;
+  display: flex;
+  justify-content: space-between;
+}
+.blog-post__info div {
+	color: #727986;
+}
+.blog-post__info div a {
+	color: #727986;
+	text-decoration: underline;
+}
+.blog-post__info div a:hover {
+	color: #61657d;
+}
+.blog_post_content h2, #glossary-heading {
+	font-size: 34px;
+	line-height: 48px;
+	color: #5462d1;
+	margin: 42px 0 22px;
+	/* margin-bottom: 22px; */
+	font-family: "circular-bold",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+}
+p.alpha-section {
+	color: #080e33 !important;
+	display: block;
+	font-size: 1.889rem;
+	font-weight: 700;
+	text-decoration: none !important;
+}
+.blog_post_content h3, .blog_post_content h4, .blog_post_content h5, .blog_post_content h6{
+	color: #61657d;
+	font-size: 22px;
+	line-height: 1.4;
+	font-family: "circular-bold",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+	margin-top: 32px;
+	margin-bottom: 22px;
+
+}
+.blog_post_content ul li {
+	color: #61657d;
+	line-height:1.5;
+	margin: 0 0 10px 10px;
+}
+.blog_post_content ul {
+	margin: 15px 0;
+	padding: 0 0 0 15px;
+}
+
+/*** Tables ***/
+
+.blog_post_content .wp-block-table {
+  border-radius: 1rem;
+  border: 1px solid #E5E5E5;
+  overflow: hidden;
+}
+
+.blog_post_content table {
+  width: 100%;
+}
+
+.blog_post_content table tr {
+  background-color: #FAF7F7;
+}
+
+.blog_post_content table tr:nth-child(odd) {
+  background-color: rgba(250, 247, 247, 0.35);
+}
+
+.blog_post_content table tr:first-child td {
+	font-family: "circular-bold",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;margin: 10px 0 0;
+}
+
+.blog_post_content table tr td {
+  padding: 0.75rem 1.5rem;
+}
+
+.blog_post_content table tr td:last-child {
+  text-align: right;
+}
+
+/*** End Tables ***/
+
+.blog_post_content ul li a {
+	text-decoration:underline;
+}
+.blog_post_content ul li a:not([href]):not([tabindex]) {
+	color: #5462d1;
+	text-decoration: underline;
+}
+.blog_author_bio{
+	padding: 64px 0;
+	background: #e7e9f2;
+}
+h5.author_name {
+	font-weight: 500;
+	color: #465060;
+	font-size: 20px;
+	margin-bottom: 12px;
+	margin-top: 0;
+}
+.about_author_section{
+	max-width:737px;
+	margin:0px auto;
+}
+.homebuyers_learn_heading_section {
+	margin: 100px 0 50px;
+}
+.homebuyers_learn_page_heading_section h1 {
+	color: #5462d1;
+	font-size: 4rem;
+	font-weight: normal;
+	line-height: 1.2;
+	font-family: "tiempos",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+	margin: 0;
+	padding-bottom: 20px;
+}
+.homebuyers_learn_page_heading_section p {
+	font-size: 1.2rem;
+}
+.menu_link_section h4 {
+	font-size: 18px;
+	text-transform: none;
+	margin: 0 0px;
+	font-family: "circular-bold",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+	color: #25262d;
+	padding: 12px 0 15px;
+}
+.learn_link_section {
+	padding: 50px 0;
+}
+.menu_link_section p {
+	padding: 0px 0;margin:0;
+	border-radius: 16px;
+	width: 11.5%;
+}
+.menu_link_section a:hover {
+	color: #ea6455;
+}
+.menu_link_section  a {
+	color: #5462d1;
+	transition: all 150ms ease;
+	text-decoration: none;	padding: 10px 20px;
+}
+.menu_link_section p a {
+	color: #5462d1;
+	font-size: 18px;
+	font-family: "circular",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;display: table;margin: 0px auto;
+}
+.menu_link_section p a.active{
+	background: #f2f4fb;
+	border-radius: 16px;
+}
+.learn_content_part h4 {
+	font-family: "circular-bold",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+	text-transform: uppercase;
+	color: #25262d;
+	margin-bottom: 10px;
+	font-size: 16px;
+	font-weight: 400;
+}
+.learn_blog_link {
+	padding: 15px 0;
+}
+.homebuyers_learn_content {
+	padding: 25px 25px;
+}
+.menu_link_section {
+	align-items: center;
+}
+.learn_blog_section {
+	padding: 50px 0 100px;
+}
+.learn_content_part h3 {
+	font-family: "circular-bold",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+	color: #25262d;
+	font-size: 22px;
+	font-weight: 500;
+	line-height: 28px;
+}
+.learn_blog_link p {
+	color: #5462d1;
+}
+.card_image_section {
+	width: 100%;
+	overflow: hidden;
+	position: relative;
+	background-size: cover !important;
+	background-repeat: no-repeat !important;
+	background-position: center !important;
+	height: 210px;
+	border-radius: 7px 7px 0 0;
+}
+.card_image_section img {
+	width: 100%;
+	height:100%;
+}
+.col-md-6.learn_blog_card_section {
+	display: flex;
+}
+.learn_blog_card_section a.blog_link {
+	display: block;
+	transition: all 200ms ease;width:100%;
+	border-radius: 10px 10px 7px 7px;
+	overflow: hidden;
+	box-shadow: 0px 2px 20px rgba(84,98,209,0.1),0px 47px 46px rgba(84,98,209,0.22);
+	margin: 25px 0;
+}
+.learn_blog_card_section a:hover {
+	transform: translateY(-5px);
+}
+.blog_post_page .blog_post_content a {
+	text-decoration:underline;
+}
+.blog_post_notice {
+	margin-bottom: 25px;
+	padding: 20px 30px;
+	font-size: 14px;
+	line-height: 24px;
+	background-color: #e7e9f2;
+	color: #61657d;
+}
+.fact-checked {
+	margin: 20px 0;
+	cursor: pointer;
+	color: #61657d;
+	background: none;
+	border: none;
+}
+.fact-checked:hover,
+.fact-checked:focus,
+.fact-checked.active  {
+	color: #5462d1;
+}
+.fact-checked:focus {
+	border: none;
+	outline: none;
+}
+.fact-checked:hover .fact-checked__title,
+.fact-checked:focus .fact-checked__title,
+.fact-checked.active .fact-checked__title {
+	text-decoration-color: #5462d1;
+}
+.fact-checked__title {
+	font-family: "circular-bold",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+	text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.fact-checked__item {
+	pointer-events: none;
+}
+.fact-checked .mdi {
+  margin-right: 5px;
+  font-size: 22px;
+  position: relative;
+  top: 1px;
+}
+.fact-checked-content {
+	position: absolute;
+  top: -132px;
+  left: 14px;
+  width: 90%;
+  padding: 15px 15px 15px;
+	background-color: #fff;
+	border: 1px solid #61657d;
+	opacity: 0;
+	-webkit-transition: opacity 0.15s linear;
+	transition: opacity 0.15s linear;
+}
+.fact-checked-content.active {
+	opacity: 1;
+}
+.fact-checked-content b {
+	font-family: "circular-bold";
+}
+.fact-checked-content p {
+	font-size: 14px;
+}
+
+@media (max-width:767px) {
+	#alphabet-list {
+		font-size: 12px;
+	}
+  .blog_post_page::before{
+		display:none;
+	}
+	.blog_post_page .blog_details_post, .blog_post_page .blog_post_content {
+		padding: 0 13px;
+	}
+	.blog-post__info > div {
+		display: block;
+	}
+	.blog-post__info > div {
+		line-height: 1.5;
+	}
+	.blog_post_page .blog_post_content.related_posts .related-post__img {
+		width: 100%;
+		margin-right: 0;
+		border-radius: 10px;
+		max-width: 100%;
+	}
+	.blog_post_page .blog_post_content.related_posts .relatedthumb {
+		display: block;
+	}
+	.blog_post_page .blog_post_content.related_posts .related-post__body {
+		max-width: 100%;
+		margin: 15px 0 0;
+	}
+  .homebuyers_learn_page_heading_section h1 {
+		font-size: 2rem;
+	}
+	.homebuyers_learn_page_heading_section p {
+		font-size: 20px;
+		padding: 0px 30px;
+	}
+	.homebuyers_learn_heading_section {
+		margin: 50px 0 30px;
+	}
+	.menu_link_section {
+		padding: 0px 15px;
+	}
+	.blog_post_page .blog_post__heading h1 {
+		font-size: 30px;
+		margin: 20px 0 10px;
+		line-height: 40px;
+	}
+	.blog_post_page .blog_post_content p {
+		line-height: 32px;font-size: 18px;
+	}
+	.blog_post_content h2, #glossary-heading {
+		font-size: 26px;
+		line-height: 36px;
+	}
+	.blog_post_notice {
+		margin-bottom: 35px;
+		padding: 15px 20px 16px 25px;
+	}
+	.fact-checked {
+		margin: 10px 0 0;
+	}
+}
+@media (max-width:991px) {
+	.nav {
+		display: block;
+		width: 100%;
+	}
+	.menu_link_section h4 {
+		width: 100%;
+		display: none;
+	}
+	.menu_link_section p {
+		width: 100%;
+		display: none;
+		margin: 15px 0px 0;
+	}
+	.learn_link_section {
+		padding: 20px 0;
+	}
+	.learn_blog_section {
+		padding: 20px 0 60px;
+	}
+}
+@media (min-width: 768px) {
+	.blog_post_notice_wrapper {
+		max-width: 737px;
+		margin: 0 auto;
+	}
+}
+@media (min-width: 768px) and (max-width: 991px) {
+	.menu_link_section h4 {
+		display: none;
+	}
+	.menu_link_section p a{
+		padding: 10px 15px;
+	}
+	.menu_link_section {
+		align-items: center;
+		padding: 0px 15px;
+	}
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+	.menu_link_section {
+		align-items: center;
+		padding: 0px 15px;
+	}
+}
+
+@media (min-width: 390px) {
+  .fact-checked-content {
+    top: -112px;
+  }
+}
+@media (min-width: 480px) {
+	.fact-checked-content {
+    width: 350px;
+    left: 20px;
+    top: -132px;
+    padding: 20px;
+  }
+}
+@media (min-width: 768px) {
+  .fact-checked-content {
+		top: -85px;
+    left: 160px;
+  }
+}
